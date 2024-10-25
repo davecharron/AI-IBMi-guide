@@ -45,7 +45,7 @@ export default defineConfig({
 				}
 			],
 			tableOfContents: {
-				maxHeadingLevel: 4
+				maxHeadingLevel: 6
 			}
 		}),
 	],
