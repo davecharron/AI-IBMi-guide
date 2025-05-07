@@ -8,7 +8,8 @@ sidebar:
 # General updates on the IBM-backed code assistant project
 
 IBM i working on a code assistant project for IBM i based on the IBM Granite series of models.
-The statement of direction can be found [here](https://www.ibm.com/docs/en/announcements/statement-direction-code-assistant-rpg).
+The statement of direction can be found [here](https://www.ibm.com/docs/en/announcements/statement-direction-code-assistant-rpg) and
+a follow-on with the ability to sign up for a preview version is [here](https://www.ibm.com/new/announcements/introducing-the-upcoming-ibm-watsonx-code-assistant-for-i).
 
 When there is an official announcement from IBM, this page will be updated. In the meantime,
 listed here are some reference materials that you can use for more information:
