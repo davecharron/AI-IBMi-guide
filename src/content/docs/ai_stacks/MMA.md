@@ -5,6 +5,8 @@ sidebar:
     order: 2
 ---
 
+![images](https://github.com/user-attachments/assets/63729987-f15e-467b-97db-a39e62a840de)
+
 Starting with the Power 10 line of IBM Power processors, the CPU now features
 an integrated accelerator for AI inferencing.
 
