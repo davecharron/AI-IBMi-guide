@@ -1,6 +1,6 @@
 ---
-title: "WCAi: watsonx Code Assistant for i"
-description: IBM watsonx Code Assistant for i (WCAi)
+title: "Project Bob"
+description: Project Bob
 sidebar:
     order: 1
 ---
